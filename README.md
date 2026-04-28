@@ -4,7 +4,7 @@
 
 ## Preview
 
-[Ссылка на демо-версию сайта](https://nvsakhno.github.io/wishbone-verstka/) 
+[Ссылка на демо-версию сайта](https://nvsakhnodev.github.io/wishbone-verstka/) 
 
 <img width="1894" height="1199" alt="изображение" src="https://github.com/user-attachments/assets/30313752-bc85-4167-9f77-822613423364" />
 
